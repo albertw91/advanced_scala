@@ -1,0 +1,6 @@
+*.jar*
+.jar
+target/*
+/cache/*
+.idea/
+null/
